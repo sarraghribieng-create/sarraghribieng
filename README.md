@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-IT Engineer (ENSI) and Senior Data Scientist with **5+ years of experience** applying Machine Learning to **Yield Management and Revenue Management** for major European clients (Eurotunnel, FlyCar, Camping Europe, Hotel sector).
+IT Engineer and Senior Data Scientist with **5+ years of experience** applying Machine Learning to **Yield Management and Revenue Management** for major European clients (Eurotunnel, FlyCar, Camping Europe, Hotel sector).
 
 Full ML lifecycle expertise — from mathematical R&D to **production-grade critical systems**. I build scalable pipelines, packaged Python applications, and data-driven pricing engines that directly optimize revenue and operational efficiency.
 
@@ -75,13 +75,13 @@ Full ML lifecycle expertise — from mathematical R&D to **production-grade crit
 
 ## 💼 Key Projects & Achievements
 
-### 🚂 Eurotunnel Le Shuttle — Revenue Management System
+### 🚂 Revenue Management System
 - **Dates Clustering App (Production):** Hybrid clustering of travel dates → packaged as Windows `.exe`, eliminated manual analysis for RM experts
 - **Price Elasticity Engine:** Modular Python solution with piecewise regression + auto breakpoint selection · R² improved from **0.595 → 0.967** → fully automated pricing decisions
 - **Demand Forecasting:** Random Forest winning over time-series baselines · R²=0.992 · MAE=0.23 · RMSE=0.67 at 30-day horizon
 - **Workflow Orchestration Scheduler:** Cross-platform Python service (Windows/Linux) with inter-job dependency management, auto-retry & DB tracking
 
-### 🚗 FlyCar — Car Rental Data Engineering & ML
+### 🚗 Car Rental Data Engineering & ML
 - Unconstrained demand forecasting with ML
 - Lead Times Clustering → "Milestones" used daily by the Pricing team
 - Automated Linux snapshot extraction service (ETL · Pandas · SQLAlchemy · Pytest)
@@ -91,7 +91,7 @@ Full ML lifecycle expertise — from mathematical R&D to **production-grade crit
 - Price prediction via **Random Forest & LSTM**
 - Trained **Q-Learning and DQN agents** for hotel revenue optimization
 
-### ⛺ Camping Europe — Forecasting & Cloud
+### ⛺ Forecasting & Cloud
 - ML/DL demand forecasting integrated into an interactive BI dashboard (pre-season & in-season)
 - Cancellation prediction: hybrid regression/classification system
 - AWS S3 cloud infrastructure for ML model & dataset storage
